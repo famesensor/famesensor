@@ -17,5 +17,4 @@ My name is Sathit Junthong, I'm developer.
 - Docker
 
 ### Github Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=famesensor&hide=javascript,html)](https://github.com/famesensor/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=famesensor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
