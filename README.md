@@ -5,8 +5,8 @@ My name is Sathit Junthong, I'm developer.
 - Devops
 - Web Application
 - Data Science 
-- NLP
 - Deep learning
+- Automatic Speech Recognition
 
 ### Stack tools🛠️
 - React
@@ -15,6 +15,7 @@ My name is Sathit Junthong, I'm developer.
 - Go
 - Python
 - Docker
+- AWS, GCP, Azure
 
 ### Github Stats
 [![Famesensor's GitHub stats](https://github-readme-stats.vercel.app/api?username=famesensor&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
@@ -22,4 +23,7 @@ My name is Sathit Junthong, I'm developer.
 
 [![Famesensor's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=famesensor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ### Contact Me
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sathit.junthong)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/fame_jt/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/dev_sensor)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@famesensor) 
+- Meduim : <a href="https://medium.com/@famesensor" target="_blank">famesensor</a>
+- Linkedin : <a href="https://www.linkedin.com/in/sathit-junthong-997317205/" target="_blank">Sathit Junthong</a>
+- Twitter : <a href="https://twitter.com/dev_sensor" target="_blank">dev_sensor</a>
+
