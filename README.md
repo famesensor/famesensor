@@ -1,21 +1,19 @@
-## Hi there 👋, I'm Fame
+## Hi there 👋
 My name is Sathit Junthong, I'm developer.
 
 ### Interested field :dart:
 - Devops
-- Web Application
+- Web and Mobile Application
 - Data Science 
 - Deep learning
 - Automatic Speech Recognition
 
 ### Stack tools🛠️
-- React
-- React Native
-- Node.js
-- Go
-- Python
-- Docker
-- AWS, GCP, Azure
+- Front-end : <b>React-Redux</b>
+- Back-end : <b>Express.Js, Nest.Js, Golang(Gin, Fiber), Python(Flask,FastApi)</b>
+- Mobile : <b>React Native, Fluter(Beginner)</b>
+- Cloud : <b>AWS, GCP, Azure</b>
+- Other tools : <b>Docker</b>
 
 ### Github Stats
 [![Famesensor's GitHub stats](https://github-readme-stats.vercel.app/api?username=famesensor&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
