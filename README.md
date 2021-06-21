@@ -10,10 +10,10 @@ My name is Sathit Junthong, I'm developer.
 
 ### Stack tools🛠️
 - Front-end : <b>React-Redux</b>
-- Back-end : <b>Express.Js, Nest.Js, Golang(Gin, Fiber), Python(Flask,FastApi)</b>
+- Back-end : <b>Node.js<Express.Js, Nest.Js>, Golang<Gin, Fiber>, Python<Flask,FastApi></b>
 - Mobile : <b>React Native, Fluter(Beginner)</b>
 - Cloud : <b>AWS, GCP, Azure</b>
-- CI/CD : Github Actions
+- CI/CD : <b>Github Actions</b>
 - Other tools : <b>Docker</b>
 
 ### Github Stats
