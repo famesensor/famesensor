@@ -13,6 +13,7 @@ My name is Sathit Junthong, I'm developer.
 - Back-end : <b>Express.Js, Nest.Js, Golang(Gin, Fiber), Python(Flask,FastApi)</b>
 - Mobile : <b>React Native, Fluter(Beginner)</b>
 - Cloud : <b>AWS, GCP, Azure</b>
+- CI/CD : Github Actions
 - Other tools : <b>Docker</b>
 
 ### Github Stats
