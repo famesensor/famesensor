@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&labelColor=lightgray">
   </a>
 </p>
-<!-- <img align="right" src="https://www.img.in.th/images/1dd145dc64e963cee3ff6dd344804083.png" width="20%"> -->
+<img align="right" src="https://www.img.in.th/images/9e9c6095dd66879e0e77dda5427c0919.png" width="10%">
 
 - 🖐 I'm Sathit Junthong, You can call me "Fame".
 - 💻 I'm developer in planet earth.
